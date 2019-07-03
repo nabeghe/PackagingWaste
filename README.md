@@ -1,7 +1,7 @@
 # PackagingWaste
  Data Visualization of https://ec.europa.eu/eurostat/web/products-datasets/-/env_waspac
 
-# Screenshots:
+# Screenshots
 ![Splashscreen](Screenshot-1.jpg)
 ![Map](Screenshot-2.jpg)
 ![Single Visualization](Screenshot-3.jpg)
